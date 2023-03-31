@@ -1,0 +1,24 @@
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border-radius: 9px;
+    border: 2px solid black;
+    cursor: pointer;
+    font-family:'Calistoga', cursive ;
+    
+}
+.row input{
+    margin: 0;
+    padding: 10px 0;
+    font-size: 20px;
+    border: 2px solid black;
+    cursor: pointer;
+
+}
+.html,body{
+    font-family: 'Calistoga', cursive;
+    background-color:  lavender;
+    font-size: 20px;
+
+    
+}
